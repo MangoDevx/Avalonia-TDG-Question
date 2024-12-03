@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDGResponseSheetTest", "TDGResponseSheetTest.csproj", "{3815DB19-772C-4FF9-B3DE-FA94D8AE0731}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDGResponseSheetTest.Desktop", "..\TDGResponseSheetTest.Desktop\TDGResponseSheetTest.Desktop.csproj", "{20DB13EC-0C40-414D-9AB0-3F6DB1660C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3815DB19-772C-4FF9-B3DE-FA94D8AE0731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3815DB19-772C-4FF9-B3DE-FA94D8AE0731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3815DB19-772C-4FF9-B3DE-FA94D8AE0731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3815DB19-772C-4FF9-B3DE-FA94D8AE0731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DB13EC-0C40-414D-9AB0-3F6DB1660C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DB13EC-0C40-414D-9AB0-3F6DB1660C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DB13EC-0C40-414D-9AB0-3F6DB1660C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DB13EC-0C40-414D-9AB0-3F6DB1660C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D61A101-5EDC-4306-A8E5-4DE844CB1651}
+	EndGlobalSection
+EndGlobal
